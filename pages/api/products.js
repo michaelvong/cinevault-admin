@@ -15,19 +15,19 @@ export default async function handler(req, res) {
         
     }
     if(method === 'POST'){
-        const {title, description, price} = req.body;
+        const {title, description, price, image} = req.body;
         const productDoc = await Product.create({
-            title, description, price
+            title, description, price, image,
         })
         res.json(productDoc);
     }
 
     if(method === 'PUT'){
-        const {title, description, price, _id} = req.body;
+        const {title, description, price, image, _id} = req.body;
         //we can just use {_id} instead of {_id:_id} since they are same name
         //same with title, desc, price,
         //if they had diff var names then we have to do {title : newTitle} if newTitle was our var
-        await Product.updateOne({_id}, {title, description, price});
+        await Product.updateOne({_id}, {title, description, price, image});
         res.json(true);
     }
 
