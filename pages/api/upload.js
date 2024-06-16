@@ -2,9 +2,11 @@ import multiparty from 'multiparty';
 import {S3Client, PutObjectCommand } from '@aws-sdk/client-s3';
 import fs from 'fs';
 import mime from 'mime-types';
+import { isAdminRequest } from './auth/[...nextauth]';
 const bucketName = 'cinevault';
 
 export default async function handle(req, res){
+    await isAdminRequest(req, res);
     const form = new multiparty.Form();
     const {fields,files} = await new Promise((resolve,reject) => {
         form.parse(req, (err, fields, files) => {
