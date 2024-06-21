@@ -1,0 +1,338 @@
+[
+    {
+        "Title": "Inside Out 2",
+        "Year": "2024",
+        "Rated": "PG",
+        "Released": "14 Jun 2024",
+        "Runtime": "100 min",
+        "Genre": "Animation, Adventure, Comedy",
+        "Director": "Kelsey Mann",
+        "Writer": "Dave Holstein, Meg LeFauve",
+        "Actors": "Amy Poehler, Phyllis Smith, Lewis Black",
+        "Plot": "Follow Riley, in her teenage years, encountering new emotions.",
+        "Language": "English",
+        "Country": "United States, Japan",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTc1MDQ3NjAtOWEzMi00YzE1LWI2OWUtNjQ0OWJkMzI3MDhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "92%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt22022452",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Godzilla",
+        "Year": "2014",
+        "Rated": "PG-13",
+        "Released": "16 May 2014",
+        "Runtime": "123 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Gareth Edwards",
+        "Writer": "Dave Callaham, Max Borenstein, Ishirô Honda",
+        "Actors": "Aaron Taylor-Johnson, Elizabeth Olsen, Bryan Cranston",
+        "Plot": "The world is beset by the appearance of monstrous creatures, but one of them may be the only one who can save humanity.",
+        "Language": "English, Japanese",
+        "Country": "United States, Japan",
+        "Awards": "7 wins & 31 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDFmYTM4NzAtNWM0ZC00MGJlLWEyYzQtYzA3ZTFiNzc1YjllXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "76%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "62/100"
+            }
+        ],
+        "Metascore": "62",
+        "imdbRating": "6.4",
+        "imdbVotes": "440,872",
+        "imdbID": "tt0831387",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$200,676,069",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Godzilla x Kong: The New Empire",
+        "Year": "2024",
+        "Rated": "PG-13",
+        "Released": "29 Mar 2024",
+        "Runtime": "115 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "Adam Wingard",
+        "Writer": "Terry Rossio, Adam Wingard, Simon Barrett",
+        "Actors": "Rebecca Hall, Brian Tyree Henry, Dan Stevens",
+        "Plot": "Two ancient titans, Godzilla and Kong, clash in an epic battle as humans unravel their intertwined origins and connection to Skull Island's mysteries.",
+        "Language": "English",
+        "Country": "United States, Australia",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BY2QwOGE2NGQtMWQwNi00M2IzLThlNWItYWMzNGQ5YWNiZDA4XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "54%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "6.4",
+        "imdbVotes": "50,186",
+        "imdbID": "tt14539740",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$192,350,439",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Dune: Part Two",
+        "Year": "2024",
+        "Rated": "PG-13",
+        "Released": "01 Mar 2024",
+        "Runtime": "166 min",
+        "Genre": "Action, Adventure, Drama",
+        "Director": "Denis Villeneuve",
+        "Writer": "Denis Villeneuve, Jon Spaihts, Frank Herbert",
+        "Actors": "Timothée Chalamet, Zendaya, Rebecca Ferguson",
+        "Plot": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+        "Language": "English",
+        "Country": "United States, Canada, United Arab Emirates, Hungary, Italy, New Zealand, Jordan, Gambia",
+        "Awards": "2 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctOWMzMy00NTc5LThlOGQtODhmNDI1NmY5YzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "92%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "8.7",
+        "imdbVotes": "380,747",
+        "imdbID": "tt15239678",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$280,256,121",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Anyone But You",
+        "Year": "2023",
+        "Rated": "R",
+        "Released": "22 Dec 2023",
+        "Runtime": "103 min",
+        "Genre": "Comedy, Romance",
+        "Director": "Will Gluck",
+        "Writer": "Ilana Wolpert, Will Gluck",
+        "Actors": "Sydney Sweeney, Glen Powell, Alexandra Shipp",
+        "Plot": "After an amazing first date, Bea and Ben's fiery attraction turns ice-cold--until they find themselves unexpectedly reunited at a wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+        "Language": "English",
+        "Country": "Australia, United States",
+        "Awards": "1 win & 4 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTVhZGU2OWQtNDM1Ni00MzM3LTgzYjgtOTEwYzQzOWZjNTIyXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "53%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "6.1",
+        "imdbVotes": "92,014",
+        "imdbID": "tt26047818",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$88,319,668",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Annabelle",
+        "Year": "2014",
+        "Rated": "R",
+        "Released": "03 Oct 2014",
+        "Runtime": "99 min",
+        "Genre": "Horror, Mystery, Thriller",
+        "Director": "John R. Leonetti",
+        "Writer": "Gary Dauberman",
+        "Actors": "Ward Horton, Annabelle Wallis, Alfre Woodard",
+        "Plot": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "3 wins & 7 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTQwZmQyYzEtODk5ZC00OTY3LWExMjAtYzRjNWFhNGM3MzBlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "28%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "37/100"
+            }
+        ],
+        "Metascore": "37",
+        "imdbRating": "5.4",
+        "imdbVotes": "176,289",
+        "imdbID": "tt3322940",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$84,284,252",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Interstellar",
+        "Year": "2014",
+        "Rated": "PG-13",
+        "Released": "07 Nov 2014",
+        "Runtime": "169 min",
+        "Genre": "Adventure, Drama, Sci-Fi",
+        "Director": "Christopher Nolan",
+        "Writer": "Jonathan Nolan, Christopher Nolan",
+        "Actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+        "Plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+        "Language": "English",
+        "Country": "United States, United Kingdom, Canada",
+        "Awards": "Won 1 Oscar. 44 wins & 148 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "73%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "74/100"
+            }
+        ],
+        "Metascore": "74",
+        "imdbRating": "8.7",
+        "imdbVotes": "2,113,545",
+        "imdbID": "tt0816692",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$188,020,017",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Kingdom of the Planet of the Apes",
+        "Year": "2024",
+        "Rated": "PG-13",
+        "Released": "10 May 2024",
+        "Runtime": "145 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Wes Ball",
+        "Writer": "Josh Friedman, Rick Jaffa, Amanda Silver",
+        "Actors": "Owen Teague, Freya Allan, Kevin Durand",
+        "Plot": "Many years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he's been taught about the past and make choices that will define a future for apes and humans alike.",
+        "Language": "English",
+        "Country": "United States, Australia",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZGI4NTEwNTAtZDcwMi00MDkxLTg1OGYtNTZmMzE3ZDljNzVlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "80%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "7.2",
+        "imdbVotes": "50,837",
+        "imdbID": "tt11389872",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$151,377,653",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Spider-Man: No Way Home",
+        "Year": "2021",
+        "Rated": "PG-13",
+        "Released": "17 Dec 2021",
+        "Runtime": "148 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "Jon Watts",
+        "Writer": "Chris McKenna, Erik Sommers, Stan Lee",
+        "Actors": "Tom Holland, Zendaya, Benedict Cumberbatch",
+        "Plot": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Nominated for 1 Oscar. 35 wins & 71 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "93%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "71/100"
+            }
+        ],
+        "Metascore": "71",
+        "imdbRating": "8.2",
+        "imdbVotes": "888,541",
+        "imdbID": "tt10872600",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$814,866,759",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    }
+]
