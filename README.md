@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+﻿# CineVault
 
-## Getting Started
+Description: <br/>
+   CineVault is a Full Stack e-commerce web application created for users to browse and purchase moveis. 
+   This repo holds the code for the admin page for the e-commerce store. This web app is made 
+   specifically for admin operations such as CRUD operations on the database. This app displays 
+   all movies and orders that the database holds. Only authorized users can log into this web page using
+   google email auth.
+ 
+To Run: <br/>
+'npm run dev' to start
 
-First, run the development server:
+Technologies: <br/>
+NextJS, MongoDB, Tailwind <br/>
+OMDb API - used to gather dummy movie data <br/>
+Next-AuthJS - simplifies user auth, allows the app to use google email as a login <br/>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Examples: <br/>
+Display all movies from database, with option to edit/delete them. Also with option to add new movie
+![cinevaultadmin1](https://github.com/michaelvong/cinevault-admin/assets/72327548/d106399f-31bb-4751-92fd-eb3b2d6fed4d) <br/>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Displays the orders placed and all the order information <br/>
+![cinevaultadmin2](https://github.com/michaelvong/cinevault-admin/assets/72327548/a8512978-064f-44a9-80db-3ba15e122bd6)
